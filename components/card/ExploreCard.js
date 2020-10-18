@@ -73,6 +73,23 @@ export default function (props) {
 						</Text>
 					</View>
 				)}
+				{item.bundling && (
+					<View
+						style={{
+							marginTop: 5,
+							paddingVertical: 2,
+							borderRadius: 4,
+							backgroundColor: 'rgba(0,248,248,0.7)',
+							justifyContent: 'center',
+							alignItems: 'center',
+							width: 130,
+						}}
+					>
+						<Text medium style={{ fontSize: 10, color: '#fff' }}>
+							Gratis kuota streaming
+						</Text>
+					</View>
+				)}
 			</View>
 		</TouchableOpacity>
 	);
