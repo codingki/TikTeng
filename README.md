@@ -12,7 +12,7 @@ BNCC Technoscape x tiket.com Hackathon submission for Maradota Team (TikTeng)
 
 ## Team
 
-![rm/teams.png](Tikteng%rm/teams.png)
+![rm/teams.png](rm/teams.png)
 
 ## Ideas
 
